@@ -1,0 +1,25 @@
+[2023-01-13T10:38:38.949] [FATAL] default - MainPage failed load
+[2023-01-13T10:38:41.116] [ERROR] default - Email failed typing
+[2023-01-13T10:38:41.164] [ERROR] default - Password failed typing
+[2023-01-13T10:38:41.305] [ERROR] default - Email failed typing
+[2023-01-13T10:38:41.376] [ERROR] default - Email failed typing
+[2023-01-13T10:38:41.413] [ERROR] default - Password failed typing
+[2023-01-13T10:38:41.458] [ERROR] default - Password failed typing
+[2023-01-13T10:38:43.166] [DEBUG] default - Click continueBtn
+[2023-01-13T10:38:43.228] [INFO] default - firstname typing
+[2023-01-13T10:38:43.882] [DEBUG] default - Click continueBtn
+[2023-01-13T10:38:45.008] [ERROR] default - Email failed typing
+[2023-01-13T10:38:45.036] [ERROR] default - Password failed typing
+[2023-01-13T10:38:45.751] [ERROR] default - Email failed typing
+[2023-01-13T10:38:45.768] [ERROR] default - Password failed typing
+[2023-01-13T10:38:48.252] [ERROR] default - Email failed typing
+[2023-01-13T10:38:48.333] [ERROR] default - Password failed typing
+[2023-01-13T10:38:48.519] [ERROR] default - Email failed typing
+[2023-01-13T10:38:48.552] [ERROR] default - Password failed typing
+[2023-01-13T10:38:49.899] [INFO] default - firstname typing
+[2023-01-13T10:38:50.776] [DEBUG] default - Click continueBtn
+[2023-01-13T10:38:52.178] [ERROR] default - Email failed typing
+[2023-01-13T10:38:52.284] [ERROR] default - Password failed typing
+[2023-01-13T10:38:54.138] [DEBUG] default - Click continueBtn
+[2023-01-13T10:38:56.619] [ERROR] default - Email failed typing
+[2023-01-13T10:38:56.637] [ERROR] default - Password failed typing
